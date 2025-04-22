@@ -36,7 +36,7 @@
       if (option === 'experiencia') {
         botReply.textContent = "Coordino vendors en CrediScotia. También trabajé en Scotiacontacto y Grupo El Comercio, liderando equipos de ventas y estrategias comerciales.";
       } else if (option === 'logros') {
-        botReply.textContent = "Logros: +40% productividad, rotación 8%, funnel de ventas implementado, storytelling en capacitación.";
+        botReply.textContent = "Logros: Logramos aumentar +40% productividad en el ultimo año, reducimos la rotación en 18%, funnel de ventas implementado con mejor visibilidad de indicadores para la toma de decisiones, A nivel personal la empresa familiar sigue dando trabajo a mas peruanos .";
       } else if (option === 'cv') {
         botReply.innerHTML = 'Puedes descargar mi CV aquí: <a href="CV_Editable_Mario_Chumbez.docx" target="_blank">Descargar CV</a>';
       } else if (option === 'agenda') {

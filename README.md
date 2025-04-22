@@ -40,7 +40,7 @@
       } else if (option === 'cv') {
         botReply.innerHTML = 'Puedes descargar mi CV aquí: <a href="CV_Editable_Mario_Chumbez.docx" target="_blank">Descargar CV</a>';
       } else if (option === 'agenda') {
-        botReply.innerHTML = 'Agenda una llamada conmigo aquí: <a href="https://calendly.com/tulink" target="_blank">Calendly</a> o contáctame por <a href="https://wa.me/519XXXXXXXX">WhatsApp</a>';
+        botReply.innerHTML = 'Agenda una llamada conmigo aquí: <a href="https://calendly.com/tulink" target="_blank">Calendly</javierchumbez> o contáctame por <a href="https://wa.me/51992085196">WhatsApp</a>';
       }
 
       chat.appendChild(botReply);
